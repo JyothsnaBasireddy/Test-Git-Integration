@@ -1,1 +1,1 @@
-print("Sample Python file")
+print("Sample python code")
